@@ -103,6 +103,9 @@ Load the dataset Churn_Modelling.csv, which contains information about bank cust
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/a68b8d9f-ae3d-42b4-b921-2fe585b064ce)
 
+![image](https://github.com/user-attachments/assets/ff93bc57-c5b5-48aa-8750-98cc0bd686ff)
+
+
 ## Contributions
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
