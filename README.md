@@ -1,8 +1,6 @@
 
 # Churn Modelling Prediction using ANN
 
-
-
 ## About the Project
 Developed a predictive model to identify potential customer churn, enabling proactive customer retention strategies. The model leveraged an Artificial Neural Network (ANN) to classify customers based on their likelihood to churn, helping businesses minimize revenue loss.
 
@@ -10,6 +8,7 @@ Developed a predictive model to identify potential customer churn, enabling proa
 This dataset contains information about customers of a bank, with various attributes related to their demographics, financial habits, and relationship with the bank. It is commonly used for customer churn analysis, where the goal is to predict whether a customer is likely to "churn" (leave the bank).
 
 Dataset Features:
+
 Independent variables
 
 - RowNumber: Index of the row in the dataset.
@@ -25,6 +24,7 @@ Independent variables
 - HasCrCard: Indicates whether the customer has a credit card (1 = Yes, 0 = No).
 - IsActiveMember: Indicates if the customer is an active member (1 = Active, 0 = Inactive).
 - EstimatedSalary: Estimated annual salary of the customer.
+  
 Target variable:
 
 - Exited: Target variable, where 1 indicates the customer has left the bank, and 0 means they have not.
