@@ -128,6 +128,9 @@ Load the dataset Churn_Modelling.csv, which contains information about bank cust
   - Predictions:
     Use the trained model to make predictions on the test set to assess its performance on unseen data.
   - Evaluation:The accuracy metric is used to track the model’s performance by calculating the percentage of correct predictions.
+
+    ![image](https://github.com/user-attachments/assets/fc57dcad-b301-4420-ba66-ec5bddcd3424)
+
     
 
 5. Saving and Deployment
@@ -135,6 +138,12 @@ Load the dataset Churn_Modelling.csv, which contains information about bank cust
 - Deploy: Implement app.py to create a user interface using Streamlit web framework.
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/5ddc66fb-1f49-42e6-8d68-2702f79c64a4)
+
+![image](https://github.com/user-attachments/assets/7207a976-137f-4bc3-a763-66eede6c6adb)
+
+
 ## Contributions
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
