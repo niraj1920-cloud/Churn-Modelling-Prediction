@@ -89,6 +89,7 @@ Load the dataset Churn_Modelling.csv, which contains information about bank cust
   - Hidden Layer 1: Add the first hidden layer with 64 neurons and ReLU activation. This layer is fully connected to the input layer, helping the model learn complex patterns in the data.
   - Hidden Layer 2: Add a second hidden layer with 32 neurons and ReLU activation for additional feature extraction.
   - Output Layer: Add a single neuron with sigmoid activation. The sigmoid function is ideal for binary classification problems, as it outputs probabilities between 0 and 1 (indicating the likelihood of churn).
+    
     ```bash
   model=Sequential([
     Dense(64,activation='relu',input_shape=(x_train.shape[1],)), ##HL1 connected with input layer,64 neurons
