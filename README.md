@@ -61,7 +61,7 @@ Target variable:
     └── regressionlogs/              # Folder for regression model training logs
 
 ```
-## Worflow
+## Workflow
 1.  Data Collection and Loading:
 Load the dataset Churn_Modelling.csv, which contains information about bank customers, such as demographics, credit score, account balance, and other factors relevant to churn prediction.
 
@@ -101,6 +101,8 @@ Load the dataset Churn_Modelling.csv, which contains information about bank cust
 - Deploy: Implement app.py to create a user interface using Streamlit web framework.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/a68b8d9f-ae3d-42b4-b921-2fe585b064ce)
+
 ## Contributions
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
