@@ -9,7 +9,7 @@ This dataset contains information about customers of a bank, with various attrib
 
 Dataset Features:
 
-Independent variables
+Independent variables:
 
 - RowNumber: Index of the row in the dataset.
 - CustomerId: Unique identifier for each customer.
