@@ -4,7 +4,7 @@
 ## About the Project
 Developed a predictive model to identify potential customer churn, enabling proactive customer retention strategies. The model leveraged an Artificial Neural Network (ANN) to classify customers based on their likelihood to churn, helping businesses minimize revenue loss.
 
-![image](https://github.com/user-attachments/assets/9e7a0943-5084-4d3c-aed9-b3a888e89596)
+![image](https://github.com/user-attachments/assets/2baf462f-36f0-40fd-b409-d2a4c9235ced)
 
 
 ## About Dataset
