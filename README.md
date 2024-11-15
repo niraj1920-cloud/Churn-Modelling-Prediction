@@ -4,7 +4,7 @@
 ## About the Project
 Developed a predictive model to identify potential customer churn, enabling proactive customer retention strategies. The model leveraged an Artificial Neural Network (ANN) to classify customers based on their likelihood to churn, helping businesses minimize revenue loss.
 
-![image](https://github.com/user-attachments/assets/dd8334f6-21be-405f-a622-2fc0b684e835)
+![ann image](https://github.com/user-attachments/assets/ed78f191-3c06-4c0a-99f7-043a69a346f5)
 
 ## About Dataset
 This dataset contains information about customers of a bank, with various attributes related to their demographics, financial habits, and relationship with the bank. It is commonly used for customer churn analysis, where the goal is to predict whether a customer is likely to "churn" (leave the bank).
